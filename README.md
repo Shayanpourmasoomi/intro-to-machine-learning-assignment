@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook created as part of a **Machine Learn
 > Some inline comments and explanations inside the notebook are written in **Persian (Farsi)**.  
 > However, the **code structure, variable names, equations, and outputs are standard and self-explanatory**, and the notebook can be followed by non-Persian speakers with a basic background in machine learning.
 
-## File
+## File 
 - `ML_HW1_2025.ipynb` — main notebook
 
 ## Overview
